@@ -28,6 +28,3 @@ The final model achieved:
 
 [Link to dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
 
-Contributors
-Madam Joyce Rajendran
-Supervisor : Mr Bishmer 
